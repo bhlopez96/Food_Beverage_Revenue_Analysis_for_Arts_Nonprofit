@@ -1,4 +1,3 @@
-By Transaction Query
 /*This query returns the total number of transactions for each event, along with the corresponding entertainment genre, for a specified date range. The report enabled business leaders to evaluate event attendance and purchasing activity, compare transaction volume across genres, and identify high-performing events to support future scheduling and marketing decisions.*/
 
 Select By_Trans.Event,
