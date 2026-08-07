@@ -1,4 +1,3 @@
-Top Genre by Category Query
 /*This multi-page query identifies the top-selling item within a selected food and beverage department category for a specified date range and correlates those sales with the genre of the associated entertainment event. By analyzing purchasing patterns across event genres, business leaders were able to optimize inventory allocation and product assortment for each department, improving product availability and maximizing food and beverage revenue.*/
 
 Select *
