@@ -1,4 +1,3 @@
-Top Event by Genre Query
 /*This multi-page query provides a sales summary of the top-performing event for each of the company's 21 entertainment genres, ranging from Country and Rock/Pop to Comedy and Family shows, for a specified date range. The report enabled business leaders to compare event performance across genres, identify high-revenue attractions, and make data-driven decisions regarding future event scheduling, promotions, and booking strategies.*/
 
 Select *
