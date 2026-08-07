@@ -2,9 +2,9 @@
  
 Turning raw sales data into executive-level insights using SQL and Snowflake.
  
-<img width="1400" height="350" alt="Image" src="" />
+ <img width="1774" height="887" alt="Image" src="https://github.com/user-attachments/assets/07272fa3-c96a-412b-b62f-2addb20f95f0" />
  
- 
+
 <h2>Project Overview</h2>
  
 This project represents a collection of SQL business analyses developed during a Data Analytics Internship to support executive reporting and operational decision-making for the Food & Beverage department of a performing arts nonprofit.
